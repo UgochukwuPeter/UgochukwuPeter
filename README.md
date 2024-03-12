@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs,React Native.**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3nBHIdp](https://bit.ly/3nBHIdp)
+- 👨‍💻 All of my projects are available at [ugochukwupeter](https://ugochukwupeter.netlify.app)
 
 - 💬 Ask me about **Javascript, react, node**
 
